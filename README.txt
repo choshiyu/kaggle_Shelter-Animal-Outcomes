@@ -11,5 +11,5 @@ The data comes from Austin Animal Center from October 1st, 2013 to March, 2016. 
 The outcome of the animal as they leave the shelter include : Adoption, Died, Euthanasia(安樂死), Return to owner, and Transfer. 
 The train and test data are randomly split. 
 
-##Evaluation:
+##Evaluation method:
 Submissions are evaluated using the multi-class logarithmic loss. 
